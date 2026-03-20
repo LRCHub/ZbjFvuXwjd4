@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "City Love City Love City Love",
+  "base_artist": "Kvi Baba",
+  "createdAt": "2026-03-20T13:30:17.488306Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "City Love City Love City Love",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/01_City_Love_City_Love_City_Love_Kvi_Baba.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "City Love City Love City Love",
+      "artist": "Kvi Baba",
+      "has_synced": false,
+      "path": "select/pl_01_City_Love_City_Love_City_Love_Kvi_Baba.txt"
+    }
+  ]
+}
